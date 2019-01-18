@@ -1,0 +1,50 @@
+.text{
+    float: right;
+    position: relative;
+    width: 45%;
+    top: 190px;
+}
+
+button{
+    float: right;
+    position: relative;
+    top: 320px;
+    margin-right: -23%;
+    background-color: rgb(61, 182, 152);
+    padding: 15px;
+    border: 2px solid rgb(94, 92, 92);
+}
+.text{
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text{
+    color: rgb(61, 182, 152);
+}
+
+h1{
+    position: relative;
+    margin-left: -10%;
+    font-weight: bold;
+}
+
+p{
+    position: relative;
+    top: -7px;
+    margin-left: 8%;
+}
+
+img {
+    width: 45%;
+    position: relative;
+    top: 45px;
+}
+
+a{
+    text-decoration: none; 
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+}
